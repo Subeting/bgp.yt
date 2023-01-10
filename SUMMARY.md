@@ -1,7 +1,7 @@
 # Table of contents
 
 * [二次元EMBY使用教程](README.md)
-* [优势](you-shi.md)
+* [特色](te-se.md)
 * [👨💻 账号相关](accounts/README.md)
   * [🌐 使用网页注册](<accounts/register online.md>)
   * [🤖 使用机器人注册](<accounts/register via bot.md>)
