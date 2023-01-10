@@ -1,0 +1,18 @@
+# Table of contents
+
+* [二次元EMBY使用教程](README.md)
+* [优势](you-shi.md)
+* [👨💻 账号相关](accounts/README.md)
+  * [🌐 使用网页注册](<accounts/register online.md>)
+  * [🤖 使用机器人注册](<accounts/register via bot.md>)
+  * [🖇 绑定Telegram账号到emby服务器/解绑](<accounts/bind and unbind.md>)
+  * [🗝 重置密码](accounts/zhong-zhi-mi-ma.md)
+  * [💀 销号](<accounts/delete accounts.md>)
+  * [机器人功能：其他](<accounts/others functions of bot.md>)
+* [❓ 使用方法](methods/README.md)
+  * [⭐ 推荐：网页版](<methods/online ver.md>)
+  * [⏯ EMBY官方客户端](<methods/official emby.md>)
+  * [🍎 fileball](methods/fileball.md)
+  * [🍏 infuse](methods/infuse.md)
+* [🧀 高级芝士](<high end cheese/README.md>)
+  * [🎖 破解Premium授权](<high end cheese/patch premium.md>)
