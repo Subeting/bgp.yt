@@ -20,7 +20,7 @@ description: '@nijigemby_helbot'
 
 打开[机器人](https://t.me/nijigemby\_helbot)使用命令 `/bind ****************************` 即可完成绑定（前题是您的Telegram账号未绑定或已解绑本emby服务器）
 
-当然直接运行 `/bind https://media.nijigem.by/web/index.html#!/settings/password.html?userId=`**`****************************`**`&serverId=123456789123456` 也可以捏
+当然直接运行 `/bind https://media.nijigem.by/web/index.html#!/settings/password.html?userId=`` `**`****************************`**` ``&serverId=123456789123456` 也可以捏
 
 
 
