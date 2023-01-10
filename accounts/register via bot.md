@@ -8,9 +8,7 @@ description: '@nijigemby_helbot'
 
 打开我们的bot注册↓
 
-{% embed url="https://t.me/nijigemby_helbot" %}
-👆👆👆come👆👆👆
-{% endembed %}
+[https://t.me/nijigemby\_helbot](https://t.me/nijigemby\_helbot)
 
 名字要求：0-9/大小写/英文下划线中任意4个字符（如：abcd/0123/AAKK/Ab3\_）
 

@@ -8,9 +8,7 @@ description: '@nijigemby_helbot'
 
 绑定机器人为可选操作，但是说不定呢？
 
-{% embed url="https://t.me/nijigemby_helbot" %}
-点击食用
-{% endembed %}
+[https://t.me/nijigemby\_helbot](https://t.me/nijigemby\_helbot)
 
 首先需要您的emby uid：登陆[emby服务器](http://media.nijigem.by)网页，点击右上角小齿轮⚙️→[应用程序设置](https://media.nijigem.by/web/index.html#!/settings)密码
 

@@ -14,8 +14,6 @@ description: initial.nijigem.by
 
 点击食用👇
 
-{% embed url="https://initial.nijigem.by/" %}
-go！
-{% endembed %}
+[https://initial.nijigem.by/](https://initial.nijigem.by/)
 
 广告栏：[点击品鉴专业跨境数据加密服务](https://rd.sbs/?ct=0\&cl=0\&utm\_source=aff\&affId=36544)

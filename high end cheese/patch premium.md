@@ -22,3 +22,5 @@ Windows：下载根证书，安装证书→**本地计算机**→将证书放入
 
 其他：类似Charles证书的安装方法，详情自行百度不赘述
 
+[证书地址](https://nijigem.by/certification/myCA.crt)
+

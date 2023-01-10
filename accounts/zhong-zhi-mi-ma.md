@@ -8,7 +8,7 @@ description: '@nijigemby_helbot'
 
 ## 机器人重置密码
 
-{% embed url="https://t.me/nijigemby_helbot" %}
+[https://t.me/nijigemby\_helbot](https://t.me/nijigemby\_helbot)
 
 需要您的Telegram账号先[绑定到emby](<bind and unbind.md>)
 
