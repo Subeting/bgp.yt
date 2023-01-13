@@ -1,5 +1,5 @@
 ---
-description: for IOS
+description: for IOS, but not recommended!
 ---
 
 # 🍏 infuse
@@ -13,3 +13,5 @@ description: for IOS
 端口 `443`（**高级**栏中）
 
 用户名密码不赘述
+
+<figure><img src="../.gitbook/assets/2231a8ce17ad3d114da0016069175217.jpg" alt=""><figcaption></figcaption></figure>

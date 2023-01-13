@@ -11,3 +11,5 @@ AppStore安装：fileball
 域名 `https://media.nijigem.by` 端口 `443`
 
 用户名密码不赘述
+
+![](<../.gitbook/assets/image (6).png>)

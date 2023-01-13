@@ -2,7 +2,7 @@
 description: 速度因人而异，请按照自己的真实情况
 ---
 
-# 🎈 更换IP获得更好的速度
+# 🎈 优选服务器IP
 
 ### 不会有安全风险，但是请按照自身情况获取可用IP
 
@@ -18,7 +18,7 @@ description: 速度因人而异，请按照自己的真实情况
 
 本处仅为示例，更多功能请参考👆的GitHub repo
 
-获取到优选的Cloudflare IP
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>获取到优选的Cloudflare IP</p></figcaption></figure>
 
 **``**
 
@@ -63,6 +63,6 @@ description: 速度因人而异，请按照自己的真实情况
 
 然后修改hosts文件，新建一行：**`优选的IP media.nijigem.by`**
 
-**``**
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>记事本打开页面</p></figcaption></figure>
 
 至于借用某些机场移动转发的CF，这种太刑了，不做推荐。

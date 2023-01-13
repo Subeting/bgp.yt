@@ -1,9 +1,13 @@
 ---
-description: 高清新番+全集旧番
+description: 'AKA: Nijigen Emby!'
 ---
 
 # 二次元EMBY使用教程
 
-永久域名 nijigem.by
+## 多快好省看番剧
 
-[media.nijigem.by](https://media.nijigem.by/)
+
+
+## 永久域名 nijigem.by
+
+#### [media.nijigem.by](https://media.nijigem.by/)
