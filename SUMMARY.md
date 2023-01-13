@@ -16,3 +16,4 @@
   * [🍏 infuse](methods/infuse.md)
 * [🧀 高级芝士](<high end cheese/README.md>)
   * [🎖 破解Premium授权](<high end cheese/patch premium.md>)
+  * [🎈 更换IP获得更好的速度](<high end cheese/geng-huan-ip-huo-de-geng-hao-de-su-du.md>)
