@@ -19,4 +19,8 @@ jobs:
           node-version: 10
       - run: npm install gitbook-cli -g
       - run: gitbook init
-      - run: gitbook build
+      - run: gitbook build  --output=${{ github.workspace }}/packag
+      - uses: actions/upload-artifact@v1
+        with:
+          name: nuget
+          path: ${{ github.workspace }}/packag
