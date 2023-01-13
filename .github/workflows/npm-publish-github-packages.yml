@@ -20,8 +20,10 @@ jobs:
       - run: npm install gitbook-cli -g
       - run: gitbook init
       - run: gitbook build
+      - run: ls
+      - run: pwd
       - name: Zip the Build
-        run: zip -r release.zip -book
+        run: zip -r release.zip _book
       - name: Archive code coverage results
         uses: actions/upload-artifact@v3
         with:
