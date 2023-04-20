@@ -26,6 +26,8 @@ ETH地址：0x8C76C0A3aacf09de65afF1C36A667F141DF6986C
 
 
 
-## 在我们的AFF消费
+## 通过我们的AFF消费
 
 #### 👉前往[我们的AFF页面](<not fast enough.md>)
+
+#### [戳这里看看更多AFF](http://aff.ahu.moe)

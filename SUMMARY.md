@@ -16,6 +16,7 @@
   * [🍏 infuse](methods/infuse.md)
 * [🧀 高级芝士](<high end cheese/README.md>)
   * [🎈 优选服务器IP](<high end cheese/CF IP choosing.md>)
+  * [🔍 搜索番剧技巧](<high end cheese/sou-suo-fan-ju-ji-qiao.md>)
 * [😎 还不够快？](<not fast enough.md>)
 * [🙏 支持我们的发展](<support us.md>)
 * [🤳 来唠嗑啊](<talk talk.md>)
