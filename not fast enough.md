@@ -2,9 +2,9 @@
 description: 油门踩死，加速！
 ---
 
-# 😎 还不够快？
+# 😎 加速你的访问
 
-## 从面板到客户端全定制的超级专业机场！全中转，无限流量，一周仅需1$！
+## 无限流量|保姆级服务|专业节点——支持CHATGPT
 
 <figure><img src=".gitbook/assets/auVPN 扫码邀请.png" alt=""><figcaption><p>来薅羊毛咯</p></figcaption></figure>
 
