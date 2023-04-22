@@ -10,4 +10,8 @@ description: 'AKA: Nijigen Emby!'
 
 ## 永久域名 nijigem.by
 
-#### [media.nijigem.by](https://media.nijigem.by/)
+### [media.nijigem.by](https://media.nijigem.by/)
+
+###
+
+[查看我们的合作伙伴](<not fast enough.md>)
