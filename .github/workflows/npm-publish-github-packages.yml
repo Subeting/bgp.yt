@@ -22,8 +22,12 @@ jobs:
       - run: ls
       - run: pwd
       - name: Zip the Build
-        run: zip -r release.zip _book
+        run: |
+          find ./ |grep html|while read line; do sed -i s/'.md'/'.html'/g "${line}"; done
+          zip -r release.zip _book
       - name: Archive code coverage results
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         uses: actions/upload-artifact@v3
         with:
           name: code-coverage-report
