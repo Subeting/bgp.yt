@@ -1,5 +1,5 @@
 ---
-description: 'AKA: Nijigen Emby!'
+description: 'AKA: Nijigen Emby!' 
 ---
 
 # 二次元EMBY使用教程
