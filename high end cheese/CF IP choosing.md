@@ -6,9 +6,9 @@ description: 速度因人而异，请按照自己的真实情况
 
 ### 不会有安全风险，但是请按照自身情况获取可用IP
 
-**使用第三方软件👉** [**XIU2/CloudflareSpeedTest**](https://github.com/XIU2/CloudflareSpeedTest/releases/)****
+**使用第三方软件👉** [**XIU2/CloudflareSpeedTest**](https://github.com/XIU2/CloudflareSpeedTest/releases/)
 
-****
+
 
 `CloudflareST -f ip.txt -dn 20 -p 5 -url https://jp-mirror.pinochet.tk/`
 
@@ -20,7 +20,7 @@ description: 速度因人而异，请按照自己的真实情况
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>获取到优选的Cloudflare IP</p></figcaption></figure>
 
-**``**
+
 
 ### 懒人包：
 

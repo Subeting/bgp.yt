@@ -16,7 +16,7 @@ description: '@nijigemby_helbot'
 
 发送`/register 名字`到机器人，如`/register abcd`或`/register 1234`
 
-``
+
 
 错误提示：no name sensored，检测不到你的名字，即只输入了`/register`后面没有空格和你的名字
 

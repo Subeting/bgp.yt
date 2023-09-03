@@ -16,7 +16,7 @@ description: 安卓(TV)/Windows/IOS
 
 主机名 `https://media.nijigem.by` 端口 `443`
 
-``
+
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>照着输入就对了</p></figcaption></figure>
 

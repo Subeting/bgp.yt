@@ -10,7 +10,11 @@ description: 我很可爱，可以给我打钱吗
 
 [点击链接](https://www.binance.com/en/activity/referral-entry/CPA?fromActivityPage=true\&ref=CPA\_00QV12RTQP)或扫描下图二维码注册币安，我们将会收到佣金。
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/binance.jfif" alt=""><figcaption><p>受邀注册即可返现</p></figcaption></figure>
+
+</div>
 
 
 

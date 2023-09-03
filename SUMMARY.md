@@ -2,7 +2,7 @@
 
 * [二次元EMBY使用教程](README.md)
 * [特色](specials.md)
-* [👨💻 账号相关](accounts/README.md)
+* [👨💻 👨💻 账号相关](accounts/README.md)
   * [🌐 使用网页注册](<accounts/register online.md>)
   * [🤖 使用机器人注册](<accounts/register via bot.md>)
   * [🖇 绑定Telegram账号到emby服务器/解绑](<accounts/bind and unbind.md>)
@@ -16,7 +16,8 @@
   * [🍏 infuse](methods/infuse.md)
 * [🧀 高级芝士](<high end cheese/README.md>)
   * [🎈 优选服务器IP](<high end cheese/CF IP choosing.md>)
-  * [🔍 搜索番剧技巧](<high end cheese/sou-suo-fan-ju-ji-qiao.md>)
+  * [🔍 搜索番剧技巧](high-end-cheese/searching\_animes.md)
+* [F\&Q](f-and-q.md)
 * [😎 加速你的访问](<not fast enough.md>)
 * [🙏 支持我们的发展](<support us.md>)
 * [🤳 来唠嗑啊](<talk talk.md>)
