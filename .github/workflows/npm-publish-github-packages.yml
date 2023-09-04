@@ -22,6 +22,8 @@ jobs:
       - run: ls
       - run: pwd
       - name: Zip the Build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           find ./ |grep html|while read line; do sed -i s/'.md'/'.html'/g "${line}"; done
           zip -r release.zip _book
