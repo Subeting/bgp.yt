@@ -16,6 +16,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 10
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       - run: npm install gitbook-cli -g
       - run: gitbook init
       - run: gitbook build
