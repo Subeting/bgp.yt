@@ -17,6 +17,7 @@
 * [🧀 高级芝士](<high end cheese/README.md>)
   * [🎈 优选服务器IP](<high end cheese/CF IP choosing.md>)
   * [🔍 搜索番剧技巧](high-end-cheese/searching-animes.md)
+  * [免费开启高级emby功能](high-end-cheese/free-premium.md)
 * [F\&Q](f-and-q.md)
 * [😎 加速你的访问](<not fast enough.md>)
 * [🙏 支持我们的发展](<support us.md>)
