@@ -57,3 +57,12 @@ server {
 }
 ```
 
+更换hosts请自行百度或参考[优选服务器IP](<../high end cheese/CF IP choosing.md>)，添加hosts记录为`您的IP mb3admin.com`
+
+
+
+本站提供证书与伪站IP。
+
+[点击下载伪站证书](https://bgp.yt/.public/myCA.crt)（风险自负）
+
+伪站IP: `209.141.38.134`
