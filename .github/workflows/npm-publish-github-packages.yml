@@ -25,6 +25,11 @@ jobs:
         run: |
           find ./ |grep html|while read line; do sed -i s/'.md'/'.html'/g "${line}"; done
           zip -r release.zip _book
+          git config --global user.email ${{ secrets.MAILS }}
+          git config --global user.name ${{ secrets.USERNAMES }}
+          git add *
+          git commit -m "Commit Message"
+          git push origin main --force
       - name: Archive code coverage results
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
