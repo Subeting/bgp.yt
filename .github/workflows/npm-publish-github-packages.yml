@@ -31,7 +31,7 @@ jobs:
           git config --global user.name ${{ secrets.USERNAMES }}
           git add *
           git commit -m "Commit Message"
-          git push origin main --force
+          git push
       - name: Archive code coverage results
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
