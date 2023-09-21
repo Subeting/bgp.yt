@@ -17,10 +17,12 @@ jobs:
         with:
           node-version: 10
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      - run: npm install gitbook-cli -g
+      - run: |
+          npm install gitbook-cli -g
+          rm -rf _book newroot
       - run: gitbook init
       - run: gitbook build
-      - run: ls
+      - run: mkdir newroot; cp -rf _book/* newroot/
       - run: pwd
       - name: Zip the Build
         env:
